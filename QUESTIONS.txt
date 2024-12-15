@@ -1,0 +1,34 @@
+React Questions
+1. (Easy)
+What is the difference between a functional component and a class component in React?
+    Possible follow-up - When would you prefer to use functional components?
+
+2. (Moderate):
+What is the purpose of the useEffect Hook in React, and how does it differ from lifecycle methods in class components?
+    Possible follow-up - Can you explain the concept of dependencies in useEffect and what happens if you leave the dependency array empty?
+
+3. (Moderate):
+What are error boundaries in React? 
+
+4. (Easy):
+How can you pass data in React between components?
+    Possible follow-up - How data flows in React? (meaning here one-way from top to bottom).
+
+
+
+Javascript questions
+1. (Moderate):
+What are the different states of a JavaScript Promise? 
+
+2. (HARD):
+Can you explain how the JavaScript event loop works and how it handles asynchronous code like setTimeout and Promises?
+
+
+
+Web Development Questions
+1. (Easy)
+What is CSS specificity, and how does it affect how styles are applied to elements?
+
+2. (Hard)
+What are some common techniques for optimizing front-end performance in a React application?
+
